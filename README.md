@@ -1,2 +1,5 @@
 # Intro to python LCC course
- All ITP documents
+ 
+All ITP documents.
+
+Bruh work on your hommework
