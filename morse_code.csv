@@ -1,8 +1,7 @@
-Character,Morse Code
-space," "
-.,.-.-.-
-",",--..--
-?,..--..
+space, 
+period,.-.-.-
+comma,--..--
+qmark,..--..
 0,-----
 1,.----
 2,..---
