@@ -12,11 +12,11 @@ class Car:
         self.__speed += 5
     
     # subtracts 5 speed when called
-    def brake(slef):
+    def brake(self):
         self.__speed -= 5
         if self.__speed < 0:
             self.__speed = 0
     
     # Gets Speed 
-    def get_speed(slef):
+    def get_speed(self):
         return self.__speed
